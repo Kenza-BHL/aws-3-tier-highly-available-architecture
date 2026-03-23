@@ -118,7 +118,7 @@ The system is designed using a **3-tier architecture**:
 
 ## 🖼️ Architecture Diagram
 
-![Architecture Diagram]([./AWS (2025) horizontal framework.png](https://github.com/Kenza-BHL/aws-3-tier-highly-available-architecture/blob/main/AWS%20(2025)%20horizontal%20framework.png?raw=true))
+![Architecture Diagram](architecture.png)
 
 ---
 
