@@ -181,8 +181,8 @@ aws-3-tier-highly-available-architecture/
 
 ## 🎥 Project Demo
 
-> 🔗 Coming soon — recorded walkthrough of the deployed architecture.
-
+> 🔗 — recorded walkthrough of the deployed architecture.
+https://youtu.be/lXsq7gZvIiY
 ---
 
 ## 💼 Skills Demonstrated
